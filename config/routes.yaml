@@ -1,0 +1,3 @@
+user_find:
+  path: /user
+  controller: App\Controller\UserController::index
